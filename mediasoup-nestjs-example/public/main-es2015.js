@@ -1157,7 +1157,7 @@ __webpack_require__.r(__webpack_exports__);
 const environment = {
     production: false,
     name: 'development',
-    wss_url: 'https://tillsco.vboxe.com:8086/'
+    wss_url: 'https://tillsco.fr:8086/'
 };
 /*
  * For easier debugging in development mode, you can import the following file

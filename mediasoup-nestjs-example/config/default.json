@@ -13,8 +13,8 @@
       "client_id": "",
       "client_secret": ""
     },
-    "sslCrt":"/home/ubuntu/mediasoupTeam/nestAngular/mediasoup-nestjs-example/certs/vboxe.com.crt",
-    "sslKey":"/home/ubuntu/mediasoupTeam/nestAngular/mediasoup-nestjs-example/certs/vboxe.com.key"
+    "sslCrt":"/home/prodvm/nest-js.client/mediasoup-nestjs-example/certs/vboxe.com.crt",
+    "sslKey":"/home/prodvm/nest-js.client/mediasoup-nestjs-example/certs/vboxe.com.key"
   },
   "CORS_SETTINGS": {
     "allowedOrigins": [],
@@ -72,8 +72,8 @@
     "webRtcTransport": {
       "listenIps": [
         {
-          "ip":"172.31.40.233",
-          "announcedIp":"3.138.81.132"
+          "ip":"10.1.0.4",
+          "announcedIp":"4.231.234.178"
         }
       ],
       "initialAvailableOutgoingBitrate": 100000,
