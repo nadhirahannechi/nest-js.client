@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ubuntu/mediasoupTeam/nestAngular/app/mediasoup-angular-example/src/styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! /home/prodvm/nest-js.client/mediasoup-nestjs-example/src/styles.scss */"./src/styles.scss");
 
 
 /***/ })

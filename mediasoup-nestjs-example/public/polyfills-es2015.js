@@ -3142,7 +3142,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ubuntu/mediasoupTeam/nestAngular/app/mediasoup-angular-example/src/polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*!/home/prodvm/nest-js.client/mediasoup-nestjs-example/src/polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
